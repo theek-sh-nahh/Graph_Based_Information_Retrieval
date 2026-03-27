@@ -134,4 +134,4 @@ The search function implements a normalized random-walk with restart, similar in
 
 ## 📄 License
 
-This project is created for academic and portfolio purposes.
+MIT License — feel free to use, modify, and distribute.
