@@ -1,0 +1,1 @@
+Machine learning models learn patterns from data for predictive tasks. Data analytics involves extracting insights from structured and unstructured data. Data analytics involves extracting insights from structured and unstructured data. Gradient descent is used to optimize model parameters.

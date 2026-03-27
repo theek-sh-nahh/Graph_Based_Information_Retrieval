@@ -1,0 +1,2 @@
+Network analysis techniques are applied in social media and web search.
+Graph algorithms help identify influential nodes.

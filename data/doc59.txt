@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Data analytics involves extracting insights from structured and unstructured data. Feature engineering improves model performance. Predictive analytics forecasts future trends.

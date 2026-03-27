@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Inverted indexes allow efficient term-based searching. Gradient descent is used to optimize model parameters. Query expansion techniques improve retrieval effectiveness.

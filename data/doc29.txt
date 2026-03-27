@@ -1,0 +1,1 @@
+Visualization techniques support better decision making. Exploratory data analysis helps identify trends and anomalies. TF-IDF and BM25 are classical ranking methods in retrieval systems. Query expansion techniques improve retrieval effectiveness.

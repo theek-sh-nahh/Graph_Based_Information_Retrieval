@@ -1,0 +1,1 @@
+Gradient descent is used to optimize model parameters. Predictive analytics forecasts future trends. Neural networks are widely used in classification problems. Data analytics involves extracting insights from structured and unstructured data.

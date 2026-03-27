@@ -1,0 +1,1 @@
+Gradient descent is used to optimize model parameters. Exploratory data analysis helps identify trends and anomalies. Feature engineering improves model performance. Exploratory data analysis helps identify trends and anomalies.

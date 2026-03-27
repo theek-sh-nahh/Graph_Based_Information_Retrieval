@@ -1,0 +1,1 @@
+Statistical analysis supports hypothesis testing. Data analytics involves extracting insights from structured and unstructured data. Inverted indexes allow efficient term-based searching. Search engines rely on indexing and retrieval models to process large document collections.

@@ -1,0 +1,2 @@
+Relevance propagation spreads importance scores across connected nodes.
+This technique is inspired by graph algorithms such as PageRank.

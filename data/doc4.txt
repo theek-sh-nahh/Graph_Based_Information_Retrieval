@@ -1,0 +1,2 @@
+TF-IDF is a popular weighting scheme in information retrieval.
+It measures the importance of a term in a document relative to the corpus.

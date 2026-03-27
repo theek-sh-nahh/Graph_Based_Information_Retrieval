@@ -1,0 +1,2 @@
+Graph based models represent data as nodes and edges.
+Graphs are useful for capturing relationships between documents and terms.

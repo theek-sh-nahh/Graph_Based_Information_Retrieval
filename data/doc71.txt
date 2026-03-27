@@ -1,0 +1,1 @@
+Visualization techniques support better decision making. Statistical analysis supports hypothesis testing. Support vector machines maximize margin between classes. Neural networks are widely used in classification problems.

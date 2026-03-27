@@ -1,0 +1,1 @@
+Search engines rely on indexing and retrieval models to process large document collections. Gradient descent is used to optimize model parameters. Support vector machines maximize margin between classes. Inverted indexes allow efficient term-based searching.

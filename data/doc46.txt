@@ -1,0 +1,1 @@
+Predictive analytics forecasts future trends. TF-IDF and BM25 are classical ranking methods in retrieval systems. Search engines rely on indexing and retrieval models to process large document collections. Data analytics involves extracting insights from structured and unstructured data.

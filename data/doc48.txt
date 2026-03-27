@@ -1,0 +1,1 @@
+Information retrieval systems rank documents using relevance scoring algorithms. Visualization techniques support better decision making. Big data systems process high-volume datasets efficiently. TF-IDF and BM25 are classical ranking methods in retrieval systems.

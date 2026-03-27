@@ -1,0 +1,1 @@
+Exploratory data analysis helps identify trends and anomalies. Feature engineering improves model performance. Neural networks are widely used in classification problems. Predictive analytics forecasts future trends.

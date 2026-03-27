@@ -1,0 +1,1 @@
+Relevance feedback enhances document ranking accuracy. Big data systems process high-volume datasets efficiently. TF-IDF and BM25 are classical ranking methods in retrieval systems. Predictive analytics forecasts future trends.

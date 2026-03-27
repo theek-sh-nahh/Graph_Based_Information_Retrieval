@@ -1,0 +1,1 @@
+Search engines rely on indexing and retrieval models to process large document collections. Query expansion techniques improve retrieval effectiveness. Data analytics involves extracting insights from structured and unstructured data. Predictive analytics forecasts future trends.

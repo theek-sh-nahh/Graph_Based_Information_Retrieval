@@ -1,0 +1,1 @@
+Relevance feedback enhances document ranking accuracy. Query expansion techniques improve retrieval effectiveness. Feature engineering improves model performance. Neural networks are widely used in classification problems.

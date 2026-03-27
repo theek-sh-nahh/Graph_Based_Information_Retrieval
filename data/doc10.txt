@@ -1,0 +1,1 @@
+Conceptually, three matrices are involved in this graph based retrieval system :  the TF-IDF matrix for term weighting, the adjacency matrix representing the graph structure, and the normalized transition matrix used in relevance propagation.

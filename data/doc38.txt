@@ -1,0 +1,1 @@
+Predictive analytics forecasts future trends. Machine learning models learn patterns from data for predictive tasks. Support vector machines maximize margin between classes. Visualization techniques support better decision making.

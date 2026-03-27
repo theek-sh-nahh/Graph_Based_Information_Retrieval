@@ -1,0 +1,1 @@
+Information retrieval systems rank documents using relevance scoring algorithms. Predictive analytics forecasts future trends. Exploratory data analysis helps identify trends and anomalies. Query expansion techniques improve retrieval effectiveness.

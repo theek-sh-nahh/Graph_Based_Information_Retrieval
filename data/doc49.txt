@@ -1,0 +1,1 @@
+Support vector machines maximize margin between classes. TF-IDF and BM25 are classical ranking methods in retrieval systems. Machine learning models learn patterns from data for predictive tasks. Search engines rely on indexing and retrieval models to process large document collections.

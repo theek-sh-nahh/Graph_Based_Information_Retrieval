@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Support vector machines maximize margin between classes. Exploratory data analysis helps identify trends and anomalies. Visualization techniques support better decision making.

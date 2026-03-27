@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Data analytics involves extracting insights from structured and unstructured data. Exploratory data analysis helps identify trends and anomalies. Feature engineering improves model performance.

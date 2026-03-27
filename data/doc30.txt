@@ -1,0 +1,1 @@
+Support vector machines maximize margin between classes. Predictive analytics forecasts future trends. Big data systems process high-volume datasets efficiently. Gradient descent is used to optimize model parameters.

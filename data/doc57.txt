@@ -1,0 +1,1 @@
+Data analytics involves extracting insights from structured and unstructured data. Neural networks are widely used in classification problems. Support vector machines maximize margin between classes. Predictive analytics forecasts future trends.

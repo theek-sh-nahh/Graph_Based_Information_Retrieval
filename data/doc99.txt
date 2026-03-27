@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Predictive analytics forecasts future trends. Exploratory data analysis helps identify trends and anomalies. Supervised learning requires labeled training data.

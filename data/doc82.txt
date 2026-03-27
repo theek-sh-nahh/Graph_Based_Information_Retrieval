@@ -1,0 +1,1 @@
+Feature engineering improves model performance. Relevance feedback enhances document ranking accuracy. Search engines rely on indexing and retrieval models to process large document collections. Gradient descent is used to optimize model parameters.

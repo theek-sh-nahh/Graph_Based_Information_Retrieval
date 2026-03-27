@@ -1,0 +1,1 @@
+Neural networks are widely used in classification problems. TF-IDF and BM25 are classical ranking methods in retrieval systems. Neural networks are widely used in classification problems. Information retrieval systems rank documents using relevance scoring algorithms.

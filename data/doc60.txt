@@ -1,0 +1,1 @@
+Predictive analytics forecasts future trends. Supervised learning requires labeled training data. Data analytics involves extracting insights from structured and unstructured data. Supervised learning requires labeled training data.

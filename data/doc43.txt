@@ -1,0 +1,1 @@
+Exploratory data analysis helps identify trends and anomalies. Predictive analytics forecasts future trends. Information retrieval systems rank documents using relevance scoring algorithms. Query expansion techniques improve retrieval effectiveness.

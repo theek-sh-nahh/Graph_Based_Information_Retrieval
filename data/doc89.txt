@@ -1,0 +1,1 @@
+Search engines rely on indexing and retrieval models to process large document collections. Search engines rely on indexing and retrieval models to process large document collections. Neural networks are widely used in classification problems. Supervised learning requires labeled training data.

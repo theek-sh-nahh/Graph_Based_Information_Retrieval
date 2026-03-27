@@ -1,0 +1,1 @@
+Query expansion techniques improve retrieval effectiveness. Statistical analysis supports hypothesis testing. Relevance feedback enhances document ranking accuracy. Data analytics involves extracting insights from structured and unstructured data.

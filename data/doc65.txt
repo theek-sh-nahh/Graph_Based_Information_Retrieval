@@ -1,0 +1,1 @@
+Visualization techniques support better decision making. Information retrieval systems rank documents using relevance scoring algorithms. Search engines rely on indexing and retrieval models to process large document collections. Predictive analytics forecasts future trends.

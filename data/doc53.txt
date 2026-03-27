@@ -1,0 +1,1 @@
+Machine learning models learn patterns from data for predictive tasks. Feature engineering improves model performance. TF-IDF and BM25 are classical ranking methods in retrieval systems. Relevance feedback enhances document ranking accuracy.

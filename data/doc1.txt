@@ -1,0 +1,2 @@
+Machine learning algorithms are widely used for data analysis and prediction.
+Supervised and unsupervised learning techniques are common in modern systems.

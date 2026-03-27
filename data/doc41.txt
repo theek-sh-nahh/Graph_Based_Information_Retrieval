@@ -1,0 +1,1 @@
+Predictive analytics forecasts future trends. Predictive analytics forecasts future trends. TF-IDF and BM25 are classical ranking methods in retrieval systems. Relevance feedback enhances document ranking accuracy.

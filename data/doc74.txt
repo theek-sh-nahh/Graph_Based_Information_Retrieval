@@ -1,0 +1,1 @@
+TF-IDF and BM25 are classical ranking methods in retrieval systems. Search engines rely on indexing and retrieval models to process large document collections. Supervised learning requires labeled training data. Machine learning models learn patterns from data for predictive tasks.

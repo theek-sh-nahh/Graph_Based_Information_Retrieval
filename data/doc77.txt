@@ -1,0 +1,1 @@
+Support vector machines maximize margin between classes. Exploratory data analysis helps identify trends and anomalies. Big data systems process high-volume datasets efficiently. Support vector machines maximize margin between classes.

@@ -1,0 +1,2 @@
+Document ranking is a key problem in information retrieval systems.
+Advanced models use graph structures to enhance ranking performance.

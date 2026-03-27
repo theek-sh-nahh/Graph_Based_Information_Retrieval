@@ -1,0 +1,1 @@
+Supervised learning requires labeled training data. Machine learning models learn patterns from data for predictive tasks. Big data systems process high-volume datasets efficiently. Visualization techniques support better decision making.

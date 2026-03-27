@@ -1,0 +1,1 @@
+Machine learning models learn patterns from data for predictive tasks. Support vector machines maximize margin between classes. Query expansion techniques improve retrieval effectiveness. Inverted indexes allow efficient term-based searching.

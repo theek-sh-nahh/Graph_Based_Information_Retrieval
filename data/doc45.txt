@@ -1,0 +1,1 @@
+Information retrieval systems rank documents using relevance scoring algorithms. Support vector machines maximize margin between classes. Support vector machines maximize margin between classes. Information retrieval systems rank documents using relevance scoring algorithms.

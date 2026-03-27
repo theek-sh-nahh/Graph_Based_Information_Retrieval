@@ -1,0 +1,1 @@
+Relevance feedback enhances document ranking accuracy. Feature engineering improves model performance. Query expansion techniques improve retrieval effectiveness. Support vector machines maximize margin between classes.

@@ -1,0 +1,1 @@
+Search engines rely on indexing and retrieval models to process large document collections. Feature engineering improves model performance. Query expansion techniques improve retrieval effectiveness. Supervised learning requires labeled training data.

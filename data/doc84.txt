@@ -1,0 +1,1 @@
+Inverted indexes allow efficient term-based searching. Support vector machines maximize margin between classes. TF-IDF and BM25 are classical ranking methods in retrieval systems. Feature engineering improves model performance.

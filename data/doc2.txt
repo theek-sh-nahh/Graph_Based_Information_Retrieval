@@ -1,0 +1,2 @@
+Information retrieval focuses on finding relevant documents from large collections.
+Search engines use ranking algorithms to improve retrieval accuracy.

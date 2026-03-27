@@ -1,0 +1,2 @@
+Search engines use both content and structure to rank documents.
+Graph based ranking improves semantic relevance.

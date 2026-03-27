@@ -1,0 +1,1 @@
+Feature engineering improves model performance. Predictive analytics forecasts future trends. Support vector machines maximize margin between classes. Data analytics involves extracting insights from structured and unstructured data.

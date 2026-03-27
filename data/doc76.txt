@@ -1,0 +1,1 @@
+Statistical analysis supports hypothesis testing. Neural networks are widely used in classification problems. Exploratory data analysis helps identify trends and anomalies. Supervised learning requires labeled training data.

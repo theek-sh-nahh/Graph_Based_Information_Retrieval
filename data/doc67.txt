@@ -1,0 +1,1 @@
+Big data systems process high-volume datasets efficiently. Gradient descent is used to optimize model parameters. Machine learning models learn patterns from data for predictive tasks. Visualization techniques support better decision making.
