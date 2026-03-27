@@ -34,21 +34,6 @@ Raw Documents (.txt)
 
 ---
 
-## 🗂️ Project Structure
-
-```
-.
-├── app.py                      # Streamlit front-end
-├── ir_core.py                  # Core IR logic (preprocessing, graph, search, visualization)
-├── generate_docs.ipynb         # Notebook to generate synthetic corpus documents
-├── Graph_Based_Text_IR.ipynb   # Step-by-step walkthrough of the full IR pipeline
-├── data/                       # Corpus: 100 .txt documents (auto-generated)
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## ⚙️ Core Components
 
 ### `ir_core.py`
@@ -149,4 +134,4 @@ The search function implements a normalized random-walk with restart, similar in
 
 ## 📄 License
 
-MIT License — feel free to use, modify, and distribute.
+This project is created for academic and portfolio purposes.
